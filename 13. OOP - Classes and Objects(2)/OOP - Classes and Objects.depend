@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555883984 source:d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects(2)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

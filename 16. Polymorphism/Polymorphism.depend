@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1561217810 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\i_printable.cpp
+	"I_Printable.h"
+
+1561222198 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\i_printable.h
+	<ostream>
+
+1561222260 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\account.cpp
+	"Account.h"
+
+1561219179 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\account.h
+	"I_Printable.h"
+
+1561309512 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\main.cpp
+	<iostream>
+	<vector>
+	"Saving_Account.h"
+	"Account_Util.h"
+	"Checking_Account.h"
+	"Trust_Account.h"
+
+1561309538 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\saving_account.h
+	"Account.h"
+
+1561309465 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\checking_account.h
+	"Account.h"
+	<iostream>
+
+1561222359 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\trust_account.h
+	"Saving_Account.h"
+
+1561309498 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\checking_account.cpp
+	"Checking_Account.h"
+
+1561309569 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\saving_account.cpp
+	"Saving_Account.h"
+
+1561309712 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\trust_account.cpp
+	"Trust_Account.h"
+	<iostream>
+
+1561308757 d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\include\account_util.h
+	<vector>
+	"Account.h"
+
+1561309676 source:d:\amir\03. software engineering\c++ projects\00. lpacademy challenges\16. polymorphism\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+

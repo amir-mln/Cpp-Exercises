@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1559806314 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\src\account.cpp
+	"Account.h"
+
+1559806337 d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\include\account.h
+	<iostream>
+	<string>
+
+1559829397 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+
+1559812252 d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\include\account_util.h
+	<vector>
+	"Account.h"
+	"Savings_Account.h"
+	"Checking_Account.h"
+	"Trust_Account.h"
+
+1559806377 d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\include\savings_account.h
+	"Account.h"
+
+1559806394 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\src\savings_account.cpp
+	"Savings_Account.h"
+
+1559828467 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\src\checking_account.cpp
+	"Checking_Account.h"
+
+1559828470 d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\include\checking_account.h
+	"Account.h"
+	<string>
+	<iostream>
+
+1559829615 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\main.cpp
+	<iostream>
+	<vector>
+	"Savings_Account.h"
+	"Account_Util.h"
+	"Checking_Account.h"
+	"Trust_Account.h"
+
+1559829709 source:d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\src\trust_account.cpp
+	"Trust_Account.h"
+
+1559829185 d:\amir\projects\c++\00. lpacademy challenges\15. inheritence\include\trust_account.h
+	"Savings_Account.h"
+

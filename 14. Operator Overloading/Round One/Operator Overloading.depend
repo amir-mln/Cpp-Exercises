@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556785052 source:d:\amir\projects\00. lpacademy challenges\c++\14. operator overloading\main.cpp
+	<iostream>
+	<cstring>
+	<C_String.h>
+
+1556784743 source:d:\amir\projects\00. lpacademy challenges\c++\14. operator overloading\src\c_string.cpp
+	"C_String.h"
+	<cstring>
+	<iostream>
+
+1556797708 d:\amir\projects\00. lpacademy challenges\c++\14. operator overloading\include\c_string.h
+	<iostream>
+

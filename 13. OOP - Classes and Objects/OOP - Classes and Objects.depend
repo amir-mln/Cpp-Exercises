@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1555963422 source:d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects\src\movie.cpp
+	"Movie.h"
+	<string>
+
+1555963424 d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects\include\movie.h
+	<string>
+
+1555963273 source:d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects\main.cpp
+	<iostream>
+	"Movies.h"
+	<string>
+
+1555963424 d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects\include\movies.h
+	"Movie.h"
+	<string>
+	<vector>
+
+1555963424 source:d:\amir\projects\00. lpacademy challenges\c++\13. oop - classes and objects\src\movies.cpp
+	"Movies.h"
+	<string>
+	<iostream>
+
